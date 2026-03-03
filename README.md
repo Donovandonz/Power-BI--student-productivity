@@ -313,11 +313,18 @@ Analysis of student productivity data reveals critical patterns in how demograph
 
 <img width="1308" height="737" alt="Productivity-distribution-dashboard" src="https://github.com/user-attachments/assets/7302f2e7-f151-4740-91db-bee4141aaded" />
 
+---
+
 -<a href="https://github.com/Donovandonz/Power-BI--student-productivity/blob/main/Health-and-productivity-dashboard.png">Health-productivity-dashboard</a>
 
 <img width="1308" height="740" alt="Health-and-productivity-dashboard" src="https://github.com/user-attachments/assets/49d72c9d-9fbe-4a7a-bf08-1ff0612f6f34" />
 
+---
+
 -<a href="https://github.com/Donovandonz/Power-BI--student-productivity/blob/main/Time-management-dashboard.png">Time-management-dashboard</a>
+
+<img width="1310" height="737" alt="Time-management-dashboard" src="https://github.com/user-attachments/assets/b5c6aa82-c287-4af4-8996-3611420bdf9b" />
+
 
 
 
