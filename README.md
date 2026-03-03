@@ -776,6 +776,7 @@ become success stories.
 The data is clear. The path forward is clear. 
 Now we need the will to act. 
 
+---
 
 ## Dashboard Overview
 -<a href="https://github.com/Donovandonz/Power-BI--student-productivity/blob/main/Productivity-distribution-dashboard.png">Productivity-distribution-dashboard</a>
